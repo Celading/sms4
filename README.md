@@ -1,8 +1,23 @@
-# sms4
+<p align="center">
+ <img src="https://img.shields.io/badge/Cangjie-sms4-ff6b35?style=for-the-badge&labelColor=1a1a2e" alt="sms4" />
+ <img src="https://img.shields.io/badge/version-0.2.0-blue?style=for-the-badge&labelColor=1a1a2e" alt="Version" />
+ <img src="https://img.shields.io/badge/license-Apache%202.0-green?style=for-the-badge&labelColor=1a1a2e" alt="License" />
+</p>
 
-短信 RPC 签名、令牌桶限流与有真实等待的可插拔重试通路。
+<div align="center">
+<span style="font-weight:300;font-size:38px">sms4</span><br/>
+<span style="font-weight:100;font-size:26px">短信 RPC 签名、令牌桶限流与有真实等待的可插拔重试通路</span>
+<p align="center">
+ <sub>RPC 签名 · 令牌桶 · 可插拔传输 · 同步重试</sub>
+</p>
+</div>
 
-Version 0.2.0 · Cangjie 1.1.3 · Apache-2.0
+<p align="center">
+ <a href="https://github.com/Celading/sms4">开源主仓</a> ·
+ <a href="manual/docs/build.md">接入指南</a>
+</p>
+
+> 当前文档对应版本：`0.2.0` · Cangjie `1.1.3`
 
 ## 快速开始
 

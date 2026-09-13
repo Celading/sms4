@@ -4,7 +4,7 @@
   version = "0.2.0"
   repository = "https://github.com/Celading/sms4"
   include = ["src", "manual", "examples", "LICENSE", "NOTICE", "CRYPTO-NOTICE", "CHANGELOG.md"]
-  exclude = ["_helper", ".git", ".github", "target", "*.log", ".DS_Store"]
+  exclude = ["_helper", ".git", ".github", "target", "*.log", ".DS_Store", "cangjie-repo.toml", ".env", ".env.*", "*.cjp"]
   output-type = "static"
   src-dir = "src"
   compile-option = "-Woff unused"

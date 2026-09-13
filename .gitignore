@@ -1,2 +1,6 @@
 target/
 *.log
+cangjie-repo.toml
+.env
+.env.*
+*.cjp
