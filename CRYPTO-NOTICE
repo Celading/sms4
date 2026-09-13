@@ -1,0 +1,12 @@
+CRYPTOGRAPHY NOTICE
+
+This member contains cryptographic primitives and/or protocol cryptography.
+
+- It is NOT audited, NOT certified, and NOT FIPS 140-3 validated.
+- It must not be the sole protection for high-value secrets without
+  independent review.
+- Side-channel resistance is only claimed at the granularity that a test
+  documents; where no test records it, no claim is made.
+- Implementations target interoperability and study.
+
+Copyright 2026 Cinyu <Celading@qq.com>

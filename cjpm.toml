@@ -1,0 +1,12 @@
+[package]
+  cjc-version = "1.1.3"
+  name = "sms4"
+  version = "0.2.0"
+  repository = "https://github.com/Celading/sms4"
+  include = ["src", "manual", "examples", "LICENSE", "NOTICE", "CRYPTO-NOTICE", "CHANGELOG.md"]
+  exclude = ["_helper", ".git", ".github", "target", "*.log", ".DS_Store"]
+  output-type = "static"
+  src-dir = "src"
+  compile-option = "-Woff unused"
+  license = "Apache-2.0"
+  description = "sms4 — SMS gateway abstraction: signing, rate limit, retry queue; pure Cangjie"

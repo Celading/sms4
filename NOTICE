@@ -1,0 +1,13 @@
+sms4 — NOTICE
+Copyright 2026 Cinyu <Celading@qq.com>
+
+This is an independent implementation for the Cangjie language. It is not
+affiliated with, endorsed by, or certified by any standards body, upstream
+project or vendor named below. No upstream source code is included unless
+explicitly stated.
+
+- RFC 2202 (HMAC-SHA1 test vectors) — verification reference only.
+- Signing follows the published Alibaba Cloud SMS RPC signing algorithm for
+  interoperability; this is not an official SDK and carries no endorsement.
+
+Trademarks are the property of their respective owners.
