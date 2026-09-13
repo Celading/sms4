@@ -15,7 +15,7 @@ cjpm test
 
 ```toml
 [dependencies]
-sms4 = { git = "https://github.com/Celading/sms4.git", branch = "publication/cjku-0.2.0" }
+"CjKu::sms4" = { git = "https://github.com/Celading/sms4.git", branch = "publication/cjku-0.2.0" }
 ```
 
 首次解析后保留应用的 cjpm.lock；发布应用时建议用 commitId 固定版本。也可克隆到应用自行管理的vendor目录再用path指向它，这不是依赖私有工作区。
