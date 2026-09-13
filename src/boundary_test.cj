@@ -1,4 +1,4 @@
-package sms4
+package CjKu::sms4
 import std.unittest.*
 import std.unittest.testmacro.*
 @Test

@@ -1,5 +1,5 @@
 package consumer
-import sms4.*
+import CjKu::sms4.*
 main(): Int64 {
     let signer = RpcSigner()
     let query = signer.canonicalQuery([("Action", "SendSms"), ("Version", "2017-05-25")])
